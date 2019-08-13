@@ -1,0 +1,16 @@
+{
+  "name": "hp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "deploy gh-pages -d post"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "Https:/pheay2.Github.io/website"
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
